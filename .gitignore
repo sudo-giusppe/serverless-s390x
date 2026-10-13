@@ -1,0 +1,34 @@
+# Resultados y artefactos de experimentación
+results/**/*.csv
+results/**/*.parquet
+results/**/*.raw
+!results/sample/
+!results/sample/**
+!results/README.md
+*.log
+
+# Entornos y credenciales
+.env
+*.kubeconfig
+kubeconfig*
+secrets*
+*.pem
+*.key
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Terraform / infra
+.terraform/
+*.tfstate*
+*.tfvars
+
+# Sistema y editores
+.DS_Store
+*.swp
+.idea/
+.vscode/
