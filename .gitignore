@@ -1,3 +1,9 @@
+# Documentos personales de la IPre (no se publican en el repo)
+docs/propuesta-ipre-2027.md
+docs/propuesta-ipre-2027.html
+docs/notas-reunion-cruz.md
+docs/mensaje-cita.md
+
 # Resultados y artefactos de experimentación
 results/**/*.csv
 results/**/*.parquet

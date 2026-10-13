@@ -2,7 +2,7 @@
 
 Caracterización del arranque en frío (*cold start*) de funciones serverless en **s390x (IBM Z / LinuxONE)** frente a **x86-64**, con un stack Kubernetes + Knative y funciones de la suite vSwarm.
 
-Proyecto de Investigación en Pregrado (IPre) 2027-1, Escuela de Ingeniería UC — Departamento de Ciencia de la Computación.
+Propuesta de Investigación en Pregrado (IPre) 2027-1, Escuela de Ingeniería UC — Departamento de Ciencia de la Computación.
 
 ## Pregunta de investigación
 
